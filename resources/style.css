@@ -1,0 +1,17 @@
+* {
+    /* Reseteo de estilos */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+/* 
+* border aplicar a todo elemento del DOM para verlo
+     border: 1px solid red;
+
+*/
+.section {
+    border: 1px solid red;
+}
+
+
